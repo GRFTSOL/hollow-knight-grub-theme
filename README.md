@@ -25,9 +25,6 @@ $ git clone https://github.com/sergoncano/hollow-knight-grub-theme.git
 # Go into the repository
 $ cd hollow-knight-grub-theme
 
-# Make the installer executable
-$ chmod +x install_theme.sh
-
 # Run the installer
 $ sudo ./install_theme.sh
 ```
